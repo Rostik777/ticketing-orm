@@ -14,7 +14,6 @@ import java.time.LocalDate;
 @AllArgsConstructor
 @Data
 public class ProjectDTO {
-
     @NotBlank
     private String projectName;
 
